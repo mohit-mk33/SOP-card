@@ -21,6 +21,10 @@
 ::-webkit-scrollbar-thumb:hover {
   background: white; 
 }
+
+.photo-align{
+    margin-left: 20px !important;
+}
 	
 	
 	header {
